@@ -21,7 +21,7 @@ func main() {
 		ch2 <- "Slow Response"
 	}()
 
-	// Select waits for whichever channel is ready first
+	// Select waits  for whichever channel is ready first
 	for i := 0; i < 2; i++ {
 		select {
 		case msg1 := <-ch1:
@@ -31,5 +31,5 @@ func main() {
 		}
 	}
 
-	
+
 }
