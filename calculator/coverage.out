@@ -1,0 +1,9 @@
+mode: set
+learn-golang/calculator/calculator.go:3.32,5.2 1 1
+learn-golang/calculator/calculator.go:7.37,9.2 1 1
+learn-golang/calculator/calculator.go:11.27,13.2 1 1
+learn-golang/calculator/t.Cleanup.go:9.36,14.16 3 0
+learn-golang/calculator/t.Cleanup.go:14.16,16.3 1 0
+learn-golang/calculator/t.Cleanup.go:19.2,19.19 1 0
+learn-golang/calculator/t.Cleanup.go:19.19,22.3 2 0
+learn-golang/calculator/t.Cleanup.go:25.2,25.60 1 0
